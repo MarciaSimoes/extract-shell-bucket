@@ -54,3 +54,5 @@ query = get_query_from_file(path +"\product_database.sql")
 # LOAD DATAFRAME FROM QUERY RESULT
 product_base = get_data(query)
 
+# -*- coding: utf-8 -*-
+
