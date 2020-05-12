@@ -1,3 +1,4 @@
+
 -- Dados base img dafiti
 -- Sku,Url,Valor,Total vendas do produto ultimo mes,Qdt Vendida
 select 
